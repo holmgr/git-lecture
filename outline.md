@@ -44,6 +44,3 @@ Nu blir det demostration:
     - [Lathund för git](http://rogerdudler.github.io/git-guide/)
     - [Interaktiv guide, Github](https://try.github.io/levels/1/challenges/1)
     - Finns grafiska editors som kan hjälpa, även om jag skulle rekommendera terminalen
-
-
-called file tracking. try renaming the file, or moving it somewhere else manually [same content, new file (because of the new path/name)]: will SVN know that that's the same file and retain the previous countless revisions you've made to it? no, I guess not. –  Filip Dupanović May 18 '10 at 21:07
